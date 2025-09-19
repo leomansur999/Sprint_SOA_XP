@@ -14,7 +14,7 @@ public record DadosAtualizarCliente(
         String nacionalidade,
         LocalDate dataNascimento,
         String telefone,
-        @Email
+        @Email(message = "Email inválido")
         String email,
         String pais,
 
