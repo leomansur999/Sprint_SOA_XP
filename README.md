@@ -1,3 +1,9 @@
+Grupo:
+Leonardo Mansur RM551659
+Gabriel Oliveira RM98565
+Gabriel Riqueto RM98685
+João Pedro de Souza Vieira RM99805
+
 # 🧑‍💻 XP Smart Advisor
 
 O **XP Smart Advisor** é uma aplicação desenvolvida em **Spring Boot** que simula um assessor virtual inteligente de investimentos.  
